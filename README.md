@@ -25,7 +25,7 @@ After this, you need to scheldule a daily exercise of learning. Note, you don't 
   - [ ] Flutter Basics
     - [ ] [Material Widgets](https://flutter.dev/docs/development/ui/widgets/material)
     - [ ] [Cupertino Widgets](https://flutter.dev/docs/development/ui/widgets/cupertino)
-    - [ ] [Widget of Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) 4/100
+    - [ ] [Widget of Week](https://www.youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG) 10/100
 - [ ] Low Level
   - [ ] Darting (you need to dominate this)
     - [ ] Functional Programming
